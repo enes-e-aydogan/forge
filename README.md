@@ -1,2 +1,2 @@
 # Forge
-Knowledge management system.
+Knowledge and project management tool.
